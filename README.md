@@ -1,2 +1,2 @@
-# FB-attack-
+# FB-attack
 Auto reporting tool
